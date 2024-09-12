@@ -1,0 +1,34 @@
+project:
+  type: website
+  output-dir: docs
+website:
+  site-path: "/handbooks/"
+  title: "Psychology Handbooks | Plymouth University | 2024-5"
+  navbar:
+    background: primary
+    search: true
+    left:
+      - index.qmd
+  sidebar:
+    style: "docked"
+    search: true
+    contents:
+      - section: "Basics"
+        contents:
+          - ecs.qmd
+      - section: "Stages"
+        contents:
+          - stage1.qmd
+          
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+
+# see this for auto build
+# https://www.youtube.com/watch?v=arzBRW5XIkg
+
