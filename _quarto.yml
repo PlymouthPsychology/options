@@ -19,15 +19,12 @@ website:
           - stage1.qmd
           - stage2.qmd
           - stage4.qmd
-          - academic_year.qmd
-          - bps_accreditation.qmd
           - mpsych_transfer.qmd
           - withdrawal.qmd
           
       - section: "Policies"
         contents:
           - workload.qmd
-          - attendance.qmd
           - lecture_etiquette.qmd
           - personal_technology.qmd
           - lecture_recordings.qmd
@@ -35,8 +32,6 @@ website:
           
       - section: "Assessment"
         contents:
-          - assessment_overview.qmd
-          - assessment_types.qmd
           - deadlines.qmd
           - submitting_coursework.qmd
           - coursework_format.qmd
@@ -47,7 +42,6 @@ website:
           - psylab.qmd
           - participation_points.qmd
           - scholarship_standards.qmd
-          - academic_dishonesty.qmd
           - extenuating_circumstances.qmd
           
       - section: "Results"
@@ -75,7 +69,6 @@ website:
           - careers_resources.qmd
           - skills.qmd
           - placement_year.qmd
-          - apprenticeships.qmd
         
 
 format:
