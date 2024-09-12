@@ -1,0 +1,15 @@
+---
+title: "Skills"
+---
+
+You may find it helpful when writing job applications to refer to the general and specific skills that you are expected and encouraged to develop during the course. Remember that these skills are of a greater number and variety than in other degree courses – but most prospective employers will not know about these skills unless you tell them. Some of these skills are summarised below.
+
+Intellectual Skills: These include the ability to assimilate and process information, to reason logically and lucidly, to analyse and construct arguments and to think creatively and imaginatively. More specific aspects of these skills include; using initiative in locating sources of information, thoroughness in using information, the ability to link evidence to arguments, the ability to evaluate and criticise the validity of inferences, and originality of ideas and interpretation.
+
+Communication Skills: These include the ability to write lucidly and succinctly, to present information and arguments in a well-organised and presentable form, to verbally express your thinking coherently and articulately, and to maintain the interest and attention of your audience. You should be able to give clear and concise verbal and written presentations, structured to show continuity and coherence, in a way which adapts to the responses of your audience.
+
+Research Skills: These include an understanding of the range of research methods used in psychology, how to design experiments, observational, survey, questionnaire and other forms of studies, how to carry out appropriate statistical analyses of the data collected, how to test hypotheses and draw inferences from data, and an awareness of the advantages and disadvantages of various research methods and techniques.
+
+Professional Skills: These include specialist knowledge acquired on courses related to professional applications of psychology, the ability to work with individuals in specialised settings (such as interviews), the ability to collaborate with others as a member of a team, an understanding of skills relevant to working in organisation and group and committee settings.
+
+Information Technology Skills: An awareness of the applications of information technology and psychological issues relevant to its implementation, familiarity with a variety of applications software (e.g. word processors, spreadsheets, databases, graphics packages), experience of statistical packages such as R, experience of using computers for collecting and analysing data.

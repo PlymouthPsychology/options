@@ -3,7 +3,7 @@ project:
   output-dir: docs
 website:
   site-path: "/handbooks/"
-  title: "Psychology Handbooks | Plymouth University | 2024-5"
+  title: "Psychology Handbook | University of Plymouth"
   navbar:
     background: primary
     search: true
@@ -13,22 +13,77 @@ website:
     style: "docked"
     search: true
     contents:
-      - section: "Basics"
+      - section: "Your course"
         contents:
-          - ecs.qmd
-      - section: "Stages"
-        contents:
+          - programme_structure.qmd
           - stage1.qmd
+          - stage2.qmd
+          - stage4.qmd
+          - academic_year.qmd
+          - bps_accreditation.qmd
+          - mpsych_transfer.qmd
+          - withdrawal.qmd
           
+      - section: "Policies"
+        contents:
+          - workload.qmd
+          - attendance.qmd
+          - lecture_etiquette.qmd
+          - personal_technology.qmd
+          - lecture_recordings.qmd
+          - cancellations.qmd
+          
+      - section: "Assessment"
+        contents:
+          - assessment_overview.qmd
+          - assessment_types.qmd
+          - deadlines.qmd
+          - submitting_coursework.qmd
+          - coursework_format.qmd
+          - coursework_returns.qmd
+          - marks.qmd
+          - marking_criteria.qmd
+          - exams.qmd
+          - psylab.qmd
+          - participation_points.qmd
+          - scholarship_standards.qmd
+          - academic_dishonesty.qmd
+          - extenuating_circumstances.qmd
+          
+      - section: "Results"
+        contents:
+          - results.qmd
+          - passing_modules.qmd
+          - failing_modules.qmd
+          - degree_awards.qmd
+          - prizes.qmd
+          
+      - section: "Community"
+        contents:
+          - our_community.qmd
+          - personal_tutors.qmd
+          - other_staff.qmd
+          - contacting_staff.qmd
+          - school_facilities.qmd
+          - support_services.qmd
+          - library.qmd
+          - student_representation.qmd
+          - course_feedback.qmd
+          
+      - section: "Your development"
+        contents:
+          - careers_resources.qmd
+          - skills.qmd
+          - placement_year.qmd
+          - apprenticeships.qmd
+        
 
 format:
   html:
-    theme: cosmo
+    theme: lumen
     css: styles.css
     toc: true
+    mainfont: helvetica
 
 editor: visual
-
-# see this for auto build
-# https://www.youtube.com/watch?v=arzBRW5XIkg
 

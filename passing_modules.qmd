@@ -1,0 +1,13 @@
+---
+title: "Passing Modules"
+---
+
+The overall pass mark for an undergraduate module is 40%. If the module has more than one assessment, you do not need to pass every one in order to pass the module -- provided your overall module mark is 40% or above. For instance, PSYC601 has an essay worth 50% of the module and an exam worth 50%. A student who got a zero for the essay and 88% for the exam would still pass the module, since their overall module mark would be (0 x .5 + 88 x .5) = 44. Obviously it is easier to get good module marks if you do well in each assessment!
+
+The module outline for each module will tell you what the assessments are, and how the marks are combined to give the module mark.
+
+Additionally, some modules have a pass/fail requirement in addition to coursework (e.g. research participation for PSYC424 and PSYC513, Psylab tasks for some Stage 2 and 4 modules, research ethics for PSYC605). Where a pass/fail requirement is part of a module's assessment package, you need to satisfy this requirement to pass the module, as well as gaining an overall mark of 40% in the other assessments. If you do not complete the pass/fail assessment then you will fail the module even if your mark for the graded components is over 40%.
+
+A full explanation of the University regulations concerning successful completion of modules is available here:
+
+<https://www.plymouth.ac.uk/student-life/your-studies/essential-information/regulations>

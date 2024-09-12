@@ -2,4 +2,23 @@
 title: "Stage 1"
 ---
 
-### Overview
+Single honours students take all six modules listed below. Combined honours students take modules marked * as well as one 20-credit module per semester in their minor subject. 
+
+### Semester 1
+
+PSYC421: Cognitive Psychology*
+
+PSYC422: Clinical and Developmental Psychology*
+
+PSYC423: Environmental Psychology
+
+### Semester 2
+
+PSYC424: Social Psychology*
+
+PSYC425: Perception and the Brain*
+
+PSYC426: Motivation and Performance
+
+
+Note for students in Stage 2 and above: Stage 1 has been redesigned for 2024/25. If you studied Stage 1 prior to this year then you will have taken a different set of modules. 

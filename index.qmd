@@ -1,7 +1,29 @@
 ---
-title: "Psychology Stage Handbooks, 2024-5"
+title: "Homepage"
 ---
 
-This is a Quarto website.
+![](images/school_logo.png){width="800"}
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+This is the School of Psychology handbook for undergraduate programmes. It contains essential information for students on the following programmes:
+
+BSc (Hons) Psychology
+
+BSc (Hons) Psychology with Criminology
+
+BSc (Hons) Psychology with Human Biosciences
+
+BSc (Hons) Psychology with Sociology
+
+MPsych (Hons) Psychology
+
+MPsych (Hons) Psychology with Clinical Psychology
+
+MPsych (Hons) Psychology with Human Neuroscience
+
+### Other sources of information
+
+The undergraduate Psychology page of the DLE: <https://dle.plymouth.ac.uk/course/view.php?id=38727>
+
+The University of Plymouth Student Handbook: <https://www.plymouth.ac.uk/your-university/governance/student-handbook>
+
+The School of Psychology internal website, which contains links to many of our systems (e.g. participation points, labs, support): <http://www.psy.plymouth.ac.uk>
