@@ -1,0 +1,20 @@
+---
+title: "Julien Besle"
+---
+
+![](images/Photo_2022_square_small.jpeg)
+
+## Cognitive neuroscience of hearing
+
+This option offers a deep dive into the one of our most exquisite sensory systems: the auditory system. How does brain accomplish the feat of identifying objects and people from tiny air vibrations, allowing us to navigate the world and communicate with our conspecifics? This option will not only cover what is currently known about the auditory system based on psychophysical and animal studies, but also how modern neuroimaging techniques can be used to study the human auditory system.
+
+The first part (three lectures) will introduce students to the computational goals of the auditory system (what information it needs to extract from sound waves to identify sound sources and guide behaviour), and what we currently now about how this is (partially) achieved by the peripheral and subcortical parts of the auditory system.
+
+The second part (two lectures) will focus on the human auditory cortex and on recent efforts to use neuroimaging to understand its role in achieving the auditory system's computation goals. We will review the advantages and limitations of common neuroimaging techniques (EEG, fMRI and more) and how they can be used to study auditory perception.
+
+
+### Readings
+
+Plack (2019) The sense of hearing, chapters 2-5 + 7
+
+Schnupp, Nelken & King (2011) Auditory Neuroscience: Making sense of sound, chapters 1-3

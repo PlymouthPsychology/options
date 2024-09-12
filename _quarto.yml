@@ -3,7 +3,7 @@ project:
   output-dir: docs
 website:
   site-path: "/handbooks/"
-  title: "Psychology Handbook | University of Plymouth"
+  title: "Stage 4 Options Guide"
   navbar:
     background: primary
     search: true
@@ -13,67 +13,58 @@ website:
     style: "docked"
     search: true
     contents:
-      - section: "Your course"
+      - section: "Overview"
         contents:
-          - programme_structure.qmd
-          - stage1.qmd
-          - stage2.qmd
-          - stage4.qmd
-          - mpsych_transfer.qmd
-          - withdrawal.qmd
+          - introduction.qmd
+          - options_list.qmd
           
-      - section: "Policies"
+      - section: "PSYC601 A"
         contents:
-          - workload.qmd
-          - lecture_etiquette.qmd
-          - personal_technology.qmd
-          - lecture_recordings.qmd
-          - cancellations.qmd
+          - ho.qmd
+          - fallon.qmd
+          - may.qmd
+          - hussain.qmd
+          - cross.qmd
           
-      - section: "Assessment"
+      - section: "PSYC601 B"
         contents:
-          - deadlines.qmd
-          - submitting_coursework.qmd
-          - coursework_format.qmd
-          - coursework_returns.qmd
-          - marks.qmd
-          - marking_criteria.qmd
-          - exams.qmd
-          - psylab.qmd
-          - participation_points.qmd
-          - scholarship_standards.qmd
-          - extenuating_circumstances.qmd
-          
-      - section: "Results"
-        contents:
-          - results.qmd
-          - passing_modules.qmd
-          - failing_modules.qmd
-          - degree_awards.qmd
-          - prizes.qmd
-          
-      - section: "Community"
-        contents:
-          - our_community.qmd
-          - personal_tutors.qmd
-          - other_staff.qmd
-          - contacting_staff.qmd
-          - school_facilities.qmd
-          - support_services.qmd
-          - library.qmd
-          - student_representation.qmd
-          - course_feedback.qmd
-          
-      - section: "Your development"
-        contents:
-          - careers_resources.qmd
-          - skills.qmd
-          - placement_year.qmd
+          - verde.qmd
+          - gee.qmd
+          - atherton.qmd
         
+      - section: "PSYC602 A"
+        contents:
+          - kuhn.qmd
+          - floccia.qmd
+          - berry.qmd
+          - pazhoohi.qmd
+          - besle.qmd
+          
+      - section: "PSYC602 B"
+        contents:
+          - rhodes.qmd
+          - nedza.qmd
+          - gallichan.qmd
+          
+      - section: "PSYC603 A"
+        contents:
+          - coming_soon.qmd    
+          
+      - section: "PSYC603 B"
+        contents:
+          - coming_soon.qmd  
+          
+      - section: "PSYC604 A"
+        contents:
+          - coming_soon.qmd  
+          
+      - section: "PSYC604 B"
+        contents:
+          - coming_soon.qmd      
 
 format:
   html:
-    theme: lumen
+    theme: united
     css: styles.css
     toc: true
     mainfont: helvetica

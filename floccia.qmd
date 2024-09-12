@@ -1,0 +1,18 @@
+---
+title: "Caroline Floccia"
+---
+
+![](images/caro_babylab_640x640.jpg)
+
+## How do children learn to talk?
+
+Parents are overjoyed when a baby says her first word, usually at the age of one year. Little do they suspect that for this milestone to occur, the child must have accumulated an enormous amount of information about her maternal language. How children develop language has been debated for thousands of years, starting in ancient Mesopotamian and Greek philosophers. Over the past 60 years, we have had the empirical and theoretical tools to address this fundamental issue, and distinguish how nature and nurture interact in this learning process. In these lectures, we will cover the main findings of the past decades, focusing on the early years (0 to 2 years). We will also explore the most recent areas of research in the field: how children retrieve words from the continuous speech stream, how they learn about the elementary speech sounds, how bilingualism shapes early speech perception, how language is implemented in the developing brain.
+
+Format: This option will be taught in five lectures.
+
+
+### Readings
+
+Barrett, M. (2001). The Development of Language. Studies in Developmental Psychology. Taylor and Francis Group, Psychology Press.
+
+Hoff, E. (2015). Language Development. Wadsworth/Thomson Learning

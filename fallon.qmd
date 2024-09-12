@@ -1,0 +1,15 @@
+---
+title: "Sean Fallon"
+---
+
+![](images/IMG_1959-01.jpg)
+
+## Beyond reward: Dopamine and its role in shaping human life
+
+Contemporary culture is saturated with references to “dopamine” and our quest to get “dopamine hits” from certain behaviours. This has prompted some authors to argue that this chemical is the “Kim Kardashian of neurotransmitters” and exerts a disproportionate influence on science and technology. The current trend to equate dopamine with “pleasure” is certainly false and leads to a misunderstanding of this neurotransmitter’s role in shaping human behaviour. In fact, dopamine is essential for human life and is involved, or capable of influencing, nearly all aspects of human behaviour. This unit will focus on understanding the (possibly) essential role of dopamine in facilitating cognitive control and motivation. We will explore the role dopamine has on these processes through looking at: i) neurological disorders that deplete dopamine levels (e.g., Parkinson’s disease ii) pharmacological manipulations that try and change dopamine levels (e,g., Ritalin) and iii) behavioural interventions that affect dopamine levels (e.g., financial incentives).
+
+### Readings
+
+Cools, R., & Robbins, T. W. (2004). Chemistry of the adaptive mind. Philosophical Transactions of the Royal Society of London. Series A: Mathematical, Physical and Engineering Sciences, 362(1825), 2871-2888.
+
+Costa, K. M., & Schoenbaum, G. (2022). Dopamine. Current Biology, 32(15), R817-R824.
