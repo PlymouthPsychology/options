@@ -62,7 +62,7 @@ Descriptions of each topic in PSYC601 and PSYC602 can be found via the menu. Det
 
 1.  Nicholas Troop -- Body image
 
-2.  Sophie Homer -- Foundations of clinical psychology, counselling, and CBT
+2.  Sophie Homer -- Foundations of clinical psychology
 
 3.  TBA
 
@@ -84,4 +84,4 @@ Descriptions of each topic in PSYC601 and PSYC602 can be found via the menu. Det
 
 2.  Kayleigh Wyles - Psychology and the natural world
 
-3.  Jaysan Charlesford -- Prejudice & prejudice reduction
+3.  Jaysan Charlesford -- Reducing prejudice
