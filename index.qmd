@@ -2,6 +2,9 @@
 title: "Homepage"
 ---
 
+
+![](images/psy_soc2narrow.jpg){width=100%}
+
 This is the Options Guide for Stage 4 students in the School of Psychology. It contains information about options that are taught as part of PSYC601, PSYC602, PSYC603, and PSYC604.
 
 More information is available on the DLE pages for each of the four modules.
