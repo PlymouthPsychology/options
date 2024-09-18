@@ -2,12 +2,10 @@ project:
   type: website
   output-dir: docs
 website:
-  google-analytics: "G-N2CBRC6JPM"
   site-path: "/handbooks/"
   title: "Stage 4 Options Guide"
   navbar:
-    logo: "images/uop-shield.png"
-    background: "#44803F"
+    background: primary
     search: true
     left:
       - text: Home
@@ -65,10 +63,12 @@ website:
         contents:
           - coming_soon.qmd      
 
-editor: source
-
 format:
   html:
-    theme: cosmo
+    theme: united
     css: styles.css
     toc: true
+    mainfont: helvetica
+
+editor: visual
+
