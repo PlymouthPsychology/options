@@ -7,7 +7,7 @@ website:
   title: "Stage 4 Options Guide"
   navbar:
     logo: "images/uop-shield.png"
-    background: "#326ee6"
+    background: "#44803F"
     search: true
     left:
       - index.qmd
