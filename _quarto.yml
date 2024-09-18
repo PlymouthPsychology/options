@@ -10,7 +10,8 @@ website:
     background: "#44803F"
     search: true
     left:
-      - index.qmd
+      - text: Home
+        href: index.qmd
   sidebar:
     style: "docked"
     search: true

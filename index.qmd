@@ -1,10 +1,11 @@
 ---
-title: "Homepage"
+title: "Stage 4 Options in the School of Psychology"
 ---
 
+![](images/psy_soc2narrow.jpg){width="100%"}
 
-![](images/psy_soc2narrow.jpg){width=100%}
+This is the Options Guide for Stage 4 students in the School of Psychology at the University of Plymouth.
 
-This is the Options Guide for Stage 4 students in the School of Psychology. It contains information about options that are taught as part of PSYC601, PSYC602, PSYC603, and PSYC604.
+It contains information about options that are taught as part of PSYC601, PSYC602, PSYC603, and PSYC604.
 
 More information is available on the DLE pages for each of the four modules.
