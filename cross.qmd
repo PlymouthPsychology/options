@@ -2,7 +2,7 @@
 title: "Liam Cross"
 ---
 
-![](images/L1010285.jpg)
+## ![](images/cross_alt.jpeg)
 
 ## Social cognition in action
 
@@ -14,19 +14,19 @@ The first lecture will lay the ground work with the basic theories and foundatio
 
 Key background and concepts
 
-#### Lecture 2 - Beyond social cognition 
+#### Lecture 2 - Beyond social cognition
 
 Embodied and enclothed cognition
 
-#### Lecture 3 - Synchrony and social cognition 
+#### Lecture 3 - Synchrony and social cognition
 
 How moving together binds us together
 
-#### Lecture 4 - Seeing more than human 
+#### Lecture 4 - Seeing more than human
 
 Autism, theory of mind and anthropomorphism
 
-#### Lecture 5 -- Games and social cognition 
+#### Lecture 5 -- Games and social cognition
 
 5.1 - Board Games as a tool to study social cognition in autism
 

@@ -1,6 +1,8 @@
 ---
-title: "Stage 4 Options in the School of Psychology"
+title: "Homepage"
 ---
+
+![](images/Picture3.png)
 
 This is the Options Guide for Stage 4 students in the School of Psychology. It contains information about options that are taught as part of PSYC601, PSYC602, PSYC603, and PSYC604.
 
