@@ -1,0 +1,11 @@
+---
+title: "Stephen Hall"
+---
+
+![](images/hall.jpg)
+
+## Drugs, the brain, and behaviour
+
+Who we are and what we do, is determined by the structure and function of our brain. The brain is made up of about 100 billion neurons, each with an average of 7000 connections with other neurons; which means that the average human brain has about 700 trillion connections. Each one of these connections communicates using specific chemicals called neurotransmitters. There are more than 100 different types of neurotransmitter in the human brain, most of which act upon several different types of receptor, producing either inhibitory or excitatory effects. This amazing organ is the most complex machine in the known universe. However, while this complexity provides great and diverse possibilities for function, it brings an equal opportunity for dysfunction, resulting in a diverse array of neurological disorders.
+
+In this course, we will discuss a variety of different neurological disorders and explore the details of epidemiology, symptoms and diagnosis. We will link these aspects to the biological basis of each disorder and then to the various drugs that can be used in their treatment. Finally, we will explore the outcomes of these treatments and discuss where current research might lead to future treatments. By the end of this course you should have an understanding of the brain regions involved in various neurological disorders, the physiological and pharmacological changes that underlie the symptoms of those disorders and how the drugs used for treatment might improve the quality of life in patients.

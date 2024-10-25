@@ -1,0 +1,25 @@
+---
+title: "Mila Mileva"
+---
+
+![](images/mileva.jpg)
+
+## First impressions
+
+Even though we are constantly reminded not to judge a book by its cover, we form first impressions every time we meet someone new. Can they be trusted? How intelligent or dominant might they be? The majority of the social evaluation literature is focused on how we attribute personality or social traits to the faces of unfamiliar people, however, recent developments in the field have considered other cues that might also be relevant to first impressions such as the human voice, body or personal names as well as their integration.
+
+This option will cover five main areas of social evaluation:
+
+1.  First impressions from faces -- What are the main dimensions and key properties of social evaluation? What are its main causes?
+
+2.  Consequences of first impressions -- How can our impressions influence our dating preferences, political elections and even court sentencing decisions?
+
+3.  First impressions from other modalities -- How do we evaluate the people we meet based on their voice, body or their name?
+
+4.  Sources of variability in first impressions -- How are men and women evaluated along social dimensions? Are first impressions influenced by differences in race and ethnicity? Are the same social traits assigned to different images of the same person?
+
+5.  Audiovisual integration in first impressions -- How is information coming from the face and the voice integrated to form audiovisual impressions?
+
+### Indicative reading:
+
+Todorov, A., Olivola, C. Y., Dotsch, R., & Mende-Siedlecki, P. (2015). Social attributions from faces: Determinants, consequences, accuracy, and functional significance. Annual Review of Psychology, 66, 519-545.

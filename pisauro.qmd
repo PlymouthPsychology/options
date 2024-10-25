@@ -1,0 +1,11 @@
+---
+title: "Andrea Pisauro"
+---
+
+![](images/pisauro.jpeg)
+
+## Psychology of AI and mental health in human-robot interactions
+
+What does the way AI operates reveal about its psychology? And what does AI psychology reveal about our own psychology? In a world which is constantly reshaped by the historical arrival of new forms of intelligence and their physical and cultural impact on our societies, psychology has a unique perspective on what to expect and how to interact with artificial intelligence and robots. 
+
+This option will try to understand in simple terms the way AI operates and to examine the crucial importance of studying the psychological dimensions of human-robot interactions, particularly considering the growing prevalence of AI-driven technologies in our daily lives and their impact on our mental health.

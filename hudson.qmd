@@ -1,0 +1,27 @@
+---
+title: "Matt Hudson"
+---
+
+![](images/hudson.jpg)
+
+## Social cognitive neuroscience: From evolution to public health
+
+Other people are arguably the most important elements of our lives, and interacting with them successfully is crucial for our well-being and survival. The need to understand and predict the behaviour of others is thought to account for the disproportionately large brain size of humans. Our social brains have given us the ability to navigate this most complex and unpredictable aspect of our environment with remarkable ease.
+
+Our social brains are able to uncover the hidden internal world of other people to reveal the goals, intentions, emotions, and beliefs that drive their behaviour, and predict how they will behave and respond in the future. We must think about what other people are thinking, and our perceptual system is especially attuned to the sight, sound, and touch of other people. Difficulties in thinking about and perceiving other people may be why those with schizophrenia and autism find social interactions so challenging.
+
+Our social brains also crave the company and acceptance of others. The pain of loneliness is analogous to that of physical pain, and social anxiety reflects the fear of social rejection. Ultimately, social exclusion and conflict can decrease our lifespan and is a common risk for numerous mental health conditions.
+
+This option will look at the evolution of the social brain, the importance of social interactions on our physical and mental health, the cognitive and neural mechanisms that enable us to understand and perceive other people, and how difficulties in social cognition may characterise conditions such as autism and schizophrenia.
+
+Lecture 1: The Evolution of the Social Brain.
+
+Lecture 2: Social Perception: Seeing, Hearing, Touching other people.
+
+Lecture 3: Mentalising: Thinking about Other People.
+
+Lecture 4: The Social Brian and Mental Health.
+
+Lecture 5: Social Cognition in Autism and Schizophrenia.
+
+Lecture 6: Revision

@@ -23,46 +23,57 @@ website:
       - section: "PSYC601 A"
         contents:
           - ho.qmd
+          - hussain.qmd
           - fallon.qmd
           - may.qmd
-          - hussain.qmd
           - cross.qmd
           
       - section: "PSYC601 B"
         contents:
           - verde.qmd
-          - gee.qmd
           - atherton.qmd
+          - gee.qmd
         
       - section: "PSYC602 A"
         contents:
-          - kuhn.qmd
           - floccia.qmd
+          - kuhn.qmd
           - berry.qmd
-          - pazhoohi.qmd
           - besle.qmd
+          - pazhoohi.qmd
           
       - section: "PSYC602 B"
         contents:
+          - gallichan.qmd
           - rhodes.qmd
           - nedza.qmd
-          - gallichan.qmd
           
       - section: "PSYC603 A"
         contents:
-          - coming_soon.qmd    
+          - hudson.qmd 
+          - hall.qmd
+          - tarrant.qmd
+          - ji.qmd
+          - mileva.qmd
           
       - section: "PSYC603 B"
         contents:
-          - coming_soon.qmd  
+          - tatone.qmd
+          - troop.qmd
+          - homer.qmd
           
       - section: "PSYC604 A"
         contents:
-          - coming_soon.qmd  
+          - walsh.qmd
+          - kanngiesser.qmd
+          - woike.qmd
+          - pisauro.qmd
           
       - section: "PSYC604 B"
         contents:
-          - coming_soon.qmd      
+          - charlesford.qmd
+          - wyles.qmd
+          - mitchell.qmd
 
 format:
   html:

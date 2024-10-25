@@ -4,47 +4,47 @@ title: "Options list"
 
 This is a list of the options offered in each block in the 2024/25 academic year.
 
-Descriptions of each topic in PSYC601 and PSYC602 can be found via the menu. Details for PSYC603 and PSYC604 will be added before the start of Semester 2.
+Descriptions of each topic can be found via the menu. 
 
 ### PSYC601 Block A
 
 1.  Nerissa Ho -- Feeling the world: From emotions to thoughts and behaviours
 
-2.  Sean James Fallon -- Beyond reward: Dopamine and its role in shaping human life
+2.  Zahra Hussain -- Deeper insight into human judgements: Sensitivity versus bias
 
-3.  Jon May -- Craving and addiction
+3.  Sean James Fallon -- Beyond reward: Dopamine and its role in shaping human life
 
-4.  Zahra Hussain -- Deeper insight into human judgements: Sensitivity versus bias
+4.  Jon May -- Craving and addiction
 
 5.  Liam Cross -- Social cognition in action
 
 ### PSYC601 Block B
 
-1.  Michael Verde - Memory and false memory
+6.  Michael Verde - Memory and false memory
 
-2.  Phil Gee and Joanna Newbolt - Animal behaviour
+7.  Gray Atherton - Neurodevelopmental conditions: Theories and practice
 
-3.  Gray Atherton - Neurodevelopmental conditions: Theories and practice
+8.  Phil Gee and Joanna Newbolt - Animal behaviour
 
 ### PSYC602 Block A
 
-1.  Gustav Kuhn -- The misdirected mind
+1.  Caroline Floccia -- How do children learn to talk?
 
-2.  Caroline Floccia -- How do children learn to talk?
+2.  Gustav Kuhn -- The misdirected mind
 
 3.  Chris Berry -- Memory, amnesia, and awareness
 
-4.  Farid Pazhoohi - Attractiveness: Why, what and how?
-
 5.  Julien Besle -- Cognitive neuroscience of hearing
+
+5.  Farid Pazhoohi - Attractiveness: Why, what and how?
 
 ### PSYC602 Block B
 
-1.  Jon Rhodes -- Sports psychology
+6.  Deanna Gallichan -- Clinical psychology for people with learning disabilities
 
-2.  Karol Nedza -- Psychology of motivation and behaviour change
+7.  Jon Rhodes -- Sports psychology
 
-3.  Deanna Gallichan -- Clinical psychology for people with learning disabilities
+8.  Karol Nedza -- Psychology of motivation and behaviour change
 
 ### PSYC603 Block A
 
@@ -60,28 +60,33 @@ Descriptions of each topic in PSYC601 and PSYC602 can be found via the menu. Det
 
 ### PSYC603 Block B
 
-1.  Nicholas Troop -- Body image
+6. Denis Tatone -- Sociologists in the crib: How infants represent social relations
 
-2.  Sophie Homer -- Foundations of clinical psychology
+7.  Nicholas Troop -- Body image
 
-3.  TBA
+8.  Sophie Homer -- Foundations of clinical psychology
+
 
 ### PSYC604 Block A
 
-1.  Jan Woike --How to make good decisions
+1. TBA 
 
-2.  Patricia Kanngiesser -- Social norms
+2.  Clare Walsh -- Mind-wandering and imagination
 
-3.  Clare Walsh - Mind-wandering and imagination
+3.  Patricia Kanngiesser -- Social norms
 
-4.  TBA
+4. Jan Woike -- How to make good decisions
 
-5.  Andrea Pisauro -- Title TBA
+5.  Andrea Pisauro -- Psychology of AI and mental health in human-robot interaction 
 
 ### PSYC604 Block B
 
-1.  Chris Mitchell - Counselling and psychotherapy
+6.  Jaysan Charlesford -- Reducing prejudice
 
-2.  Kayleigh Wyles - Psychology and the natural world
+7.  Kayleigh Wyles -- Psychology and the natural world
 
-3.  Jaysan Charlesford -- Reducing prejudice
+8.  Chris Mitchell -- Counselling and psychotherapy
+
+
+
+
