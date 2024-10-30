@@ -31,15 +31,3 @@ Moghadam S, Hollands L, Calitri R, et al. (2024). Development of a group-based b
 Borek AJ, Abraham C, Greaves CJ, et al. (2019). Identifying change processes in group-based health behaviour-change interventions: development of the mechanisms of action in group-based interventions (MAGI) framework. *Health Psychol Rev, 13(3)*, 227-247. doi:10.1080/17437199.2019.1625282
 
 Tarrant, M., Carter, M., Dean, S. G., Taylor, R., Warren, F. C., Spencer, A., Adamson, J., Landa, P., Code, C., Backhouse, A., Lamont, R. A., & Calitri, R. (2021). Singing for people with aphasia (SPA): results of a pilot feasibility randomised controlled trial of a group singing intervention investigating acceptability and feasibility. *BMJ open*, *11*(1), e040544. https://doi.org/10.1136/bmjopen-2020-040544
-
-### Assessment
-
-Create an electronic poster using a PowerPoint slide (size A0). Choose one of the societal health problems listed below and design a novel, social-identity based intervention to address the problem. Using appropriate frameworks, illustrate the stages you would work through in the design of the intervention and outline your plans for evaluation. Identify at least three potential problems that might arise from intervention design and evaluation and how you would mitigate these.
-
-Health Problems:
-
-. Option 1: How to reduce loneliness in stroke survivors living remotely
-
-. Option 2: How to improve the mental health of teenagers using nature
-
-. Option 3: How to help people at risk of diabetes lose weight
