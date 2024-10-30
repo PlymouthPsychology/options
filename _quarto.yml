@@ -4,7 +4,7 @@ project:
 website:
   google-analytics: "G-N2CBRC6JPM"
   site-path: "/handbooks/"
-  title: "Stage 4 Options Guide"
+  title: "2024/25 Options Guide"
   navbar:
     background: primary
     search: true
@@ -64,6 +64,7 @@ website:
           
       - section: "PSYC604 A"
         contents:
+          - calitri.qmd
           - walsh.qmd
           - kanngiesser.qmd
           - woike.qmd
