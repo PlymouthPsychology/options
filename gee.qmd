@@ -2,7 +2,7 @@
 title: "Phil Gee and Joanna Newbolt"
 ---
 
-![](images/Picture1.png)
+## ![](images/Picture1-01.png)
 
 ## Animal behaviour
 

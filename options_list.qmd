@@ -2,21 +2,23 @@
 title: "Options list"
 ---
 
-This is a list of the options offered in each block in the 2024/25 academic year.
+This is a list of the options offered in each block in the 2025/26 academic year.
+
+This is a work in progress (updated 24/04/2025) so there are some titles tbc and there may still be changes to the running order as we confirm the timetable.
 
 Descriptions of each topic can be found via the menu.
 
 ### PSYC601 Block A
 
-1.  Nerissa Ho -- Feeling the world: From emotions to thoughts and behaviours
+1.  Sean Fallon -- Beyond reward: Dopamine and its role in shaping human life
 
-2.  Zahra Hussain -- Deeper insight into human judgements: Sensitivity versus bias
+2.  Chris Longmore - Human factors
 
-3.  Sean James Fallon -- Beyond reward: Dopamine and its role in shaping human life
+3.  Liam Cross -- Social cognition in action
 
-4.  Jon May -- Craving and addiction
+4.  Charles Or - Face processing
 
-5.  Liam Cross -- Social cognition in action
+5.  Katharine Rimes - tbc
 
 ### PSYC601 Block B
 
@@ -24,47 +26,45 @@ Descriptions of each topic can be found via the menu.
 
 7.  Gray Atherton - Neurodevelopmental conditions: Theories and practice
 
-8.  Phil Gee and Joanna Newbolt - Animal behaviour
+8.  Alison Bacon - The criminal mind
 
 ### PSYC602 Block A
 
-1.  Caroline Floccia -- How do children learn to talk?
+1.  Chris Berry -- Memory, amnesia, and awareness
 
-2.  Gustav Kuhn -- The misdirected mind
+2.  Phil Gee and Joanna Newbolt - Animal behaviour
 
-3.  Chris Berry -- Memory, amnesia, and awareness
+3.  Gustav Kuhn -- The misdirected mind
 
-4.  Julien Besle -- Cognitive neuroscience of hearing
-
-5.  Farid Pazhoohi - Attractiveness: Why, what and how?
+4.  Caroline Floccia -- How do children learn to talk?
 
 ### PSYC602 Block B
 
-6.  Deanna Gallichan -- Clinical psychology for people with learning disabilities
+5.  Deanna Gallichan -- Clinical psychology for people with learning disabilities
+
+6.  Giorgio Ganis - The psychology of deception
 
 7.  Jon Rhodes -- Sports psychology
 
-8.  Karol Nedza -- Psychology of motivation and behaviour change
-
 ### PSYC603 Block A
 
-1.  Matt Hudson -- Social cognitive neuroscience: From evolution to public health
+1.  Julie Ji -- Harnessing the human imagination
 
-2.  Stephen Hall - Drugs, the brain and behaviour
+2.  Matt Hudson -- Social cognitive neuroscience: From evolution to public health
 
-3.  Mark Tarrant -- Group membership, social identity and health: Is there such a thing as a "social cure"?
+3.  Mila Mileva -- First impressions
 
-4.  Julie Ji -- Harnessing the human imagination
+4.  Stephen Hall - Drugs, the brain and behaviour
 
-5.  Mila Mileva -- First impressions
+5.  Pete Keohane and Ben Green - tbc
 
 ### PSYC603 Block B
 
-6.  Denis Tatone -- Sociologists in the crib: How infants represent social relations
+6.  Sophie Homer -- Foundations of clinical psychology
 
-7.  Nicholas Troop -- Body image
+7.  Chris Mitchell -- Counselling and psychotherapy
 
-8.  Sophie Homer -- Foundations of clinical psychology
+8.  Alastair Smith - Spatial cognition
 
 ### PSYC604 Block A
 
@@ -72,16 +72,14 @@ Descriptions of each topic can be found via the menu.
 
 2.  Clare Walsh -- Mind-wandering and imagination
 
-3.  Patricia Kanngiesser -- Social norms
+3.  Andrea Pisauro -- Psychology of AI and mental health in human-robot interaction
 
-4.  Jan Woike -- How to make good decisions
-
-5.  Andrea Pisauro -- Psychology of AI and mental health in human-robot interaction
+4.  Patricia Kanngiesser -- Social norms
 
 ### PSYC604 Block B
 
+5.  Kayleigh Wyles -- Psychology and the natural world
+
 6.  Jaysan Charlesford -- Reducing prejudice
 
-7.  Kayleigh Wyles -- Psychology and the natural world
-
-8.  Chris Mitchell -- Counselling and psychotherapy
+7.  Nicholas Troop -- Body image

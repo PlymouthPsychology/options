@@ -4,7 +4,7 @@ project:
 website:
   google-analytics: "G-N2CBRC6JPM"
   site-path: "/handbooks/"
-  title: "2024/25 Options Guide"
+  title: "2025/26 Options Guide"
   navbar:
     background: primary
     search: true
@@ -22,59 +22,57 @@ website:
           
       - section: "PSYC601 A"
         contents:
-          - ho.qmd
-          - hussain.qmd
           - fallon.qmd
-          - may.qmd
+          - longmore.qmd
           - cross.qmd
+          - or.qmd
+          - rimes.qmd
           
       - section: "PSYC601 B"
         contents:
           - verde.qmd
           - atherton.qmd
-          - gee.qmd
+          - bacon.qmd
         
       - section: "PSYC602 A"
         contents:
-          - floccia.qmd
-          - kuhn.qmd
           - berry.qmd
-          - besle.qmd
-          - pazhoohi.qmd
+          - gee.qmd
+          - kuhn.qmd
+          - floccia.qmd
           
       - section: "PSYC602 B"
         contents:
           - gallichan.qmd
+          - ganis.qmd
           - rhodes.qmd
-          - nedza.qmd
           
       - section: "PSYC603 A"
         contents:
-          - hudson.qmd 
-          - hall.qmd
-          - tarrant.qmd
           - ji.qmd
+          - hudson.qmd
           - mileva.qmd
+          - hall.qmd
+          - keohane.qmd
           
       - section: "PSYC603 B"
         contents:
-          - tatone.qmd
-          - troop.qmd
           - homer.qmd
+          - mitchell.qmd
+          - smith.qmd
           
       - section: "PSYC604 A"
         contents:
           - calitri.qmd
           - walsh.qmd
-          - kanngiesser.qmd
-          - woike.qmd
           - pisauro.qmd
+          - kanngiesser.qmd
           
       - section: "PSYC604 B"
         contents:
-          - charlesford.qmd
           - wyles.qmd
-          - mitchell.qmd
+          - charlesford.qmd
+          - troop.qmd
 
 format:
   html:
