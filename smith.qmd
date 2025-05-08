@@ -4,6 +4,14 @@ title: "Alastair Smith"
 
 ![](images/smith.jpg)
 
-## Spatial navigation
+## The Psychology of Drawing
 
-This is a new option for 2025/26 - description coming soon.
+Drawing is an important skill for human communication and self-expression. It has been a similarly important tool for psychologists, and drawings have been used to understand topics as diverse as child development and clinical impairment. It is, however, rarely discussed as a subject in its own right. In this option we will explore the many facets of drawing and develop our own critical ideas about how it might be better used in psychology. The topics covered in lectures will include the relationship between drawing and art, and why most people have difficulty drawing what is in front of them. We will also discuss the striking ways in which drawings can reveal the difficulties people experience after neurological damage, as well as the savant artistic abilities possessed by some people with autism. Tying all of these insights together will be a journey through the methods that psychologists have developed to study drawing in a more scientific way, and demonstrations of the unexpected commonalities that we all share in our drawing production, regardless of artistic aptitude. Across all of these insights, I will show that, in an age of increasingly sophisticated and expensive technology, it is still possible to conduct careful and insightful scientific work with pencil and paper. Bring some with you!
+
+### Suggested reading:
+
+Cohen, D. J., & Bennett, S. (1997). Why can't most people draw what they see? Journal of Experimental Psychology: Human Perception and Performance, 23(3), 609-621.
+
+Sheppard, E., Ropar, D., & Mitchell, P. (2009). Perceiving the impossible: How individuals with autism copy paradoxical figures. Autism, 13(4), 435-452.
+
+Smith, A. D. (2023). Making my Mark: Using drawing behaviour to understand cognitive impairment. In: A. D. Smith (Ed.) Cognition in the Real World, Oxford University Press.
