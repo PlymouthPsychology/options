@@ -4,6 +4,10 @@ title: "Chris Longmore"
 
 ![](images/ChrisLongmore.jpg)
 
-## Human factors
+## How do people cause planes to crash and ferries to sink? The role of human factors in everyday life
 
-This is a new option for 2025/26 - description coming soon.
+On the 27th March 1977, two Boeing 747 jumbo jets collided on the runway of Los Rodeos Airport on Tenerife. The total number of fatalities was 583, and it remains the deadliest accident in aviation history. Ten years later, on 6th March 1987, 1875 miles away, outside the port of Zeebrugge in Belgium, a passenger ferry bound for Dover capsized, leading to 193 people losing their lives. There were no mechanical issues with either airplane, nor the ferry. Instead, human factors, such as verbal communication, social hierarchies, the effects of shift work, and corporate pressures on staff, led to these tragedies.
+
+In this option, we'll delve into this area of applied psychology, known as human factors. You don't need to be a captain of a ship or a jet plane to be influenced by human factors. Every day, we interact with artificial environments, from driving cars and logging onto computers to operating complex machinery. Some individuals even interact with and operate highly advanced technologies, such as operating nuclear power plants. Human Factors explores how humans interact with these technological environments, how technology influences performance, comfort, and health, and how our understanding of human capabilities and limitations, as outlined in psychology, should be used to design safer and more effective technology, work, and work systems.
+
+We'll cover topics like the effects of shift work on the workforce, warning systems, and the concept of human error, including the psychological processes that result in errors. Case studies of major incidents such as airplane crashes and nuclear disasters will illustrate the course. This course is particularly suitable for students interested in careers in applied areas of psychology, such as occupational or human factors/ergonomics, as well as those who want to apply psychological knowledge to real-world problems and issues.
