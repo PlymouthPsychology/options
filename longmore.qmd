@@ -4,7 +4,7 @@ title: "Chris Longmore"
 
 ![](images/ChrisLongmore.jpg)
 
-## How do people cause planes to crash and ferries to sink? The role of human factors in everyday life
+## The Human Factor: How do people cause plane crashes and other accidents?
 
 On the 27th March 1977, two Boeing 747 jumbo jets collided on the runway of Los Rodeos Airport on Tenerife. The total number of fatalities was 583, and it remains the deadliest accident in aviation history. Ten years later, on 6th March 1987, 1875 miles away, outside the port of Zeebrugge in Belgium, a passenger ferry bound for Dover capsized, leading to 193 people losing their lives. There were no mechanical issues with either airplane, nor the ferry. Instead, human factors, such as verbal communication, social hierarchies, the effects of shift work, and corporate pressures on staff, led to these tragedies.
 
