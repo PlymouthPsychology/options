@@ -4,6 +4,44 @@ title: "Giorgio Ganis"
 
 ![](images/Giorgio_Ganis.jpg)
 
-## The psychology of deception
+## Cognitive and brain basis of deception
 
-This is a new option for 2025/26 - description coming soon.
+Deception can be defined as a behaviour in which someone attempts to persuade someone else to accept as true what the deceiver believes to be untrue. Although deception is a pervasive behaviour that can serve a useful social purpose (e.g., "white lies"), it can also result in serious negative consequences (e.g., wars and financial disasters). This is why individuals and entire societies have long sought reliable methods for understanding deception and for determining when a person is lying. These methods have relied on observing behavioural cues (e.g., facial expressions), measuring peripheral physiological variables (e.g., skin conductance), and more recently measuring brain activity with event-related brain potentials (ERPs) and functional magnetic resonance imaging (fMRI).
+
+This option will explore the recent experimental literature on the psychology and cognitive neuroscience of deception perception and production, trying to address questions such as: Why and how often do people lie? How accurate are people at detecting that others are lying? How accurate are "lie detection" tests and is it possible to "beat" them? Is it possible to tell if someone is lying by examining their brain activity? Deception will be placed in the context of findings and theories from the psychology and neuroscience.
+
+### Plan
+
+Session 1: Definitions of deception, examples of deception, demographics
+
+Session 2: Theories of deception; verbal & non-verbal cues to deception
+
+Session 3: Physiological cues to deception; the polygraph; the "control question" test (CQT)
+
+Session 4: The "guilty knowledge" test (GKT); event-relate potentials and deception
+
+Session 5: Functional magnetic resonance imaging and deception; brain stimulation and deception
+
+Session 6: General Q & A and discussion about essay question(s)
+
+### Aims
+
+To introduce students to the latest research on deception and to enable students to critically evaluate these developments. Students will be expected to analyse and synthesise research publications that they have accessed through independent study and to apply their knowledge to the broad themes in their chosen current topics.
+
+### Learning outcomes
+
+At the end of the course, the student should be able to:
+
+-   Demonstrate an ability to engage in independent study, including the collation of research papers from a range of sources geared towards the solution of practical or theoretical problems.
+
+-   Critically evaluate current deception research.
+
+-   Communicate their understanding of recent research developments in the psychology and neuroscience of deception.
+
+### Teaching method
+
+Lectures and discussions and guided independent study.
+
+### Readings
+
+See reading list on Leganto (via module DLE page).

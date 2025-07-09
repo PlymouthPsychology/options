@@ -4,7 +4,7 @@ title: "Options list"
 
 This is a list of the options offered in each block in the 2025/26 academic year.
 
-This is a work in progress (updated 24/04/2025) so there are some titles tbc and there may still be changes to the running order as we confirm the timetable.
+This is a work in progress (updated 09/07/2025) so there is one title tbc and there may still be changes to the running order as we confirm the timetable.
 
 Descriptions of each topic can be found via the menu.
 
@@ -12,27 +12,27 @@ Descriptions of each topic can be found via the menu.
 
 1.  Sean Fallon -- Beyond reward: Dopamine and its role in shaping human life
 
-2.  Chris Longmore - How do people cause planes to crash and ferries to sink? The role of human factors in everyday life
+2.  Chris Longmore -- How do people cause planes to crash and ferries to sink? The role of human factors in everyday life
 
 3.  Liam Cross -- Social cognition in action
 
-4.  Charles Or - Face processing
+4.  Charles Or -- Perception of faces
 
-5.  Katharine Rimes - tbc
+5.  Farid Pazhoohi -- Attractiveness: What, why, and how?
 
 ### PSYC601 Block B
 
-6.  Michael Verde - Memory and false memory
+6.  Michael Verde -- Memory and false memory
 
-7.  Gray Atherton - Neurodevelopmental conditions: Theories and practice
+7.  Gray Atherton -- Neurodevelopmental conditions: Theories and practice
 
-8.  Alison Bacon - The criminal mind
+8.  Sophie Homer -- Foundations of clinical psychology
 
 ### PSYC602 Block A
 
 1.  Chris Berry -- Memory, amnesia, and awareness
 
-2.  Phil Gee and Joanna Newbolt - Animal behaviour
+2.  Phil Gee and Joanna Newbolt -- Animal behaviour
 
 3.  Gustav Kuhn -- The misdirected mind
 
@@ -42,7 +42,7 @@ Descriptions of each topic can be found via the menu.
 
 5.  Deanna Gallichan -- Clinical psychology for people with learning disabilities
 
-6.  Giorgio Ganis - The psychology of deception
+6.  Giorgio Ganis -- Cognitive and brain basis of deception
 
 7.  Jon Rhodes -- Sports psychology
 
@@ -54,21 +54,21 @@ Descriptions of each topic can be found via the menu.
 
 3.  Mila Mileva -- First impressions
 
-4.  Stephen Hall - Drugs, the brain and behaviour
+4.  Stephen Hall -- Drugs, the brain and behaviour
 
-5.  Pete Keohane and Ben Green - tbc
+5.  Jackie Andrade -- tbc
 
 ### PSYC603 Block B
 
-6.  Sophie Homer -- Foundations of clinical psychology
+6.  Alison Bacon -- Criminals in the making
 
 7.  Chris Mitchell -- Counselling and psychotherapy
 
-8.  Alastair Smith - The Psychology of Drawing
+8.  Alastair Smith -- The Psychology of Drawing
 
 ### PSYC604 Block A
 
-1.  Raff Calitri -- Group-based rehabilitation and interventions: A practical focus on their design and evaluation
+1.  Denis Tatone -- Sociologists in the crib: How infants and children represent social relations, structures, and groups
 
 2.  Clare Walsh -- Mind-wandering and imagination
 
@@ -82,4 +82,4 @@ Descriptions of each topic can be found via the menu.
 
 6.  Jaysan Charlesford -- Reducing prejudice
 
-7.  Nicholas Troop -- Body image
+7.  Katharine Rimes -- Transdiagnostic processes in mental health problems

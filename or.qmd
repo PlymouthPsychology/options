@@ -4,6 +4,12 @@ title: "Charles Or"
 
 ![](images/charlesor_1_2.JPG)
 
-## Face processing
+## Perception of faces
 
-This is a new option for 2025/26 - description coming soon.
+How much time do you spend on faces in your waking hours? You get off the bed, look at yourself at the mirror, say goodbye to your roommates, see strangers, meet your classmates, colleagues, friends... These all involve faces. Your brain helps you decide quickly how to react to these faces -- from their identities, expressions, genders, racial/ethnic memberships, attractiveness, eye contacts, and many more. You form impressions to new faces to determine whether you want to approach, or avoid, them. Your brain appears to process all such information instantly, robustly, and effortlessly. Or is it that simple? Have you been travelling in a faraway country where everyone looks the same to you? Have you been sitting next to this person on the bus, who wears a mask, and you wonder whether you met them before? In fact, faces are highly similar to each other. Your brain is highly adapted to distinguish otherwise small differences across faces, probably with dedicated networks specialised to such processing.
+
+In this option, we will discuss the neural processes behind how we detect, extract, and encode information from faces. We will also find out how face processing develops, when normally robust face perception might fail, how some brain damages can affect face recognition, etc. While we focus on the science of face perception, we will also touch upon its practical implications, such as social/cultural significance and technological developments.
+
+### Reading
+
+Young, A., & Bruce, V. (2023). Face Perception (2nd ed.). Routledge. <https://doi.org/10.4324/9781003279426>

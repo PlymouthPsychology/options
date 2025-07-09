@@ -26,13 +26,13 @@ website:
           - longmore.qmd
           - cross.qmd
           - or.qmd
-          - rimes.qmd
+          - pazhoohi.qmd
           
       - section: "PSYC601 B"
         contents:
           - verde.qmd
           - atherton.qmd
-          - bacon.qmd
+          - homer.qmd
         
       - section: "PSYC602 A"
         contents:
@@ -53,17 +53,17 @@ website:
           - hudson.qmd
           - mileva.qmd
           - hall.qmd
-          - keohane.qmd
+          - andrade.qmd
           
       - section: "PSYC603 B"
         contents:
-          - homer.qmd
+          - bacon.qmd
           - mitchell.qmd
           - smith.qmd
           
       - section: "PSYC604 A"
         contents:
-          - calitri.qmd
+          - tatone.qmd
           - walsh.qmd
           - pisauro.qmd
           - kanngiesser.qmd
@@ -72,7 +72,7 @@ website:
         contents:
           - wyles.qmd
           - charlesford.qmd
-          - troop.qmd
+          - rimes.qmd
 
 format:
   html:
