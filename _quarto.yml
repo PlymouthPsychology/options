@@ -37,14 +37,14 @@ website:
       - section: "PSYC602 A"
         contents:
           - berry.qmd
-          - gee.qmd
+          - ganis.qmd
           - kuhn.qmd
           - floccia.qmd
           
       - section: "PSYC602 B"
         contents:
           - gallichan.qmd
-          - ganis.qmd
+          - gee.qmd
           - rhodes.qmd
           
       - section: "PSYC603 A"
