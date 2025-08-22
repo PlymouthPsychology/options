@@ -4,8 +4,6 @@ title: "Options list"
 
 This is a list of the options offered in each block in the 2025/26 academic year.
 
-This is a work in progress (updated 09/07/2025) so there is one title tbc and there may still be changes to the running order as we confirm the timetable.
-
 Descriptions of each topic can be found via the menu.
 
 ### PSYC601 Block A
@@ -56,7 +54,7 @@ Descriptions of each topic can be found via the menu.
 
 4.  Stephen Hall -- Drugs, the brain and behaviour
 
-5.  Jackie Andrade -- tbc
+5.  Jackie Andrade -- How to fall in love with the future
 
 ### PSYC603 Block B
 
