@@ -2,9 +2,9 @@
 title: "Introduction"
 ---
 
-In Stage 4 of your programme there are no mandatory taught modules - you are free to chart your own path across 30 different specialist psychology options. This offers you over 32,000 unique pathways so you can follow your aspirations and gain and specialist skills and knowledge for **your** future.
+In Stage 4 of your programme there are no mandatory taught courses - you are free to chart your own path across 30 different specialist psychology options. This offers you over 32,000 unique pathways so you can follow your aspirations and gain specialist skills and knowledge for **your** future.
 
-Our Stage 4 options are delivered in four modules, listed here. Students taking BSc Psychology or any MPsych course take all four modules, and students studying a combined honours degree (BSc Psychology with another subject) take the modules marked \* only.
+Our Stage 4 options are delivered in four modules, listed here. Students taking BSc Psychology or any MPsych course take all four modules, and students studying a combined honours degree (BSc Psychology with another subject) take the modules marked \* only. This means you don't need to select any modules - you just attend the options you want to study.  
 
 #### Semester 1
 
@@ -40,3 +40,5 @@ Blocks run in sequence, so students attend one option at a time. Each block cons
 | Semester 2 weeks 4 - 6   | PSYC603 B | All            | Exam       |
 | Semester 2 weeks 7 - 9   | PSYC604 A | Single honours | Coursework |
 | Semester 2 weeks 10 - 12 | PSYC604 B | Single honours | Exam       |
+
+There is no cap on the number of students taking each option, so you can choose whichever options you like as long as they fit within this structure (one option per block).
