@@ -72,7 +72,7 @@ website:
         contents:
           - wyles.qmd
           - charlesford.qmd
-          - rimes.qmd
+          - heintz.qmd
 
 format:
   html:
