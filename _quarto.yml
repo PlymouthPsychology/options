@@ -4,7 +4,7 @@ project:
 website:
   google-analytics: "G-N2CBRC6JPM"
   site-path: "/handbooks/"
-  title: "2025/26 Options Guide"
+  title: "2026/27 Options Guide"
   navbar:
     background: primary
     search: true
@@ -18,61 +18,38 @@ website:
       - section: "Overview"
         contents:
           - introduction.qmd
-          - options_list.qmd
           
-      - section: "PSYC601 A"
+      - section: "PSYC611"
         contents:
-          - fallon.qmd
-          - longmore.qmd
-          - cross.qmd
+          - PSYC611_outline.qmd
+        
+      - section: "PSYC612"
+        contents:
+          - PSYC612_outline.qmd
+          - ji.qmd
+          - charlesford.qmd
+          - floccia.qmd
+          - mitchell.qmd
+          - kuhn.qmd
+          - ganis.qmd
+          - atherton.qmd
+          - bacon.qmd
+          
+      - section: "PSYC613"
+        contents:
+          - PSYC613_outline.qmd
+          
+      - section: "PSYC614"
+        contents:
+          - PSYC614_outline.qmd
           - or.qmd
           - pazhoohi.qmd
-          
-      - section: "PSYC601 B"
-        contents:
-          - verde.qmd
-          - atherton.qmd
-          - homer.qmd
-        
-      - section: "PSYC602 A"
-        contents:
-          - berry.qmd
-          - ganis.qmd
-          - kuhn.qmd
-          - floccia.qmd
-          
-      - section: "PSYC602 B"
-        contents:
-          - gallichan.qmd
-          - gee.qmd
-          - rhodes.qmd
-          
-      - section: "PSYC603 A"
-        contents:
-          - ji.qmd
-          - hudson.qmd
-          - mileva.qmd
-          - hall.qmd
-          - andrade.qmd
-          
-      - section: "PSYC603 B"
-        contents:
-          - bacon.qmd
-          - mitchell.qmd
-          - smith.qmd
-          
-      - section: "PSYC604 A"
-        contents:
-          - tatone.qmd
-          - walsh.qmd
-          - pisauro.qmd
+          - cross.qmd
           - kanngiesser.qmd
-          
-      - section: "PSYC604 B"
-        contents:
-          - wyles.qmd
-          - charlesford.qmd
+          - berry.qmd
+          - tatone.qmd
           - heintz.qmd
+          - pisauro.qmd
 
 format:
   html:
