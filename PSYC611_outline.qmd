@@ -14,18 +14,18 @@ In week four we will go on a field trip to collect data based on your chosen res
 
 The aim of the module is to give you some additional research experience in preparation for your final year project. We therefore recommend that the topic you choose is the one most relevant for your research project. Please therefore consult with your dissertation supervisor as to which would be the best choice. Below is a brief description of each option:
 
-### Cognition/Experimental
+### Experiment
 
 Our emotions govern our lives and determine most of our behaviour, whether we like it or not. In doing so, our brains take in a wealth of information, assess its relevance, and determine how best to respond, even without us being fully aware of this. Our emotions are also determined by the emotions of other people and what they think of us. In this strand we will look at the relationship between cognition and emotion, and conduct an experiment on the field trip to induce an emotional response and conduct t-tests/ANOVAs on the results.
 
-### Individual Differences/Correlation
+### Correlation
 
 We all know people who have a sunny disposition, or who have a short fuse, or maybe are quite poker-faced. These common descriptions of people indicate that we do not all experience emotion in the same way, which influences how we interact with the world and other people. In this strand we will look at these individual differences and establish how they relate to emotional experience on the field trip using correlation tests.
 
-### Neuroscience/fNIRS
+### fNIRS
 
 Emotional experience must have some kind of neurological basis, whether it be fear in the amygdala or disgust in the insula. In fact, damage to certain brain areas may affect how one experiences emotions. In this strand we will be using fNIRS to establish the role of the frontal lobe in emotional experience on the field trip and look for differences using t-tests.
 
-### Clinical/Qualitative
+### Qualitative
 
 Emotions are central to our mental health: many if not all mental health conditions have emotions, such as anxiety, as a core component, whilst enjoyable experiences have therapeutic effects for our mental health. In this strand you will be applying qualitative analysis techniques to questionnaire data regarding people's emotional responses on the field trip.
